@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Minimal line illustration of a North Sea wave</title>
+  <desc id="desc">A simple vector-style line drawing of a curling wave using clean contour lines on a dark background.</desc>
+  <rect width="1000" height="1200" fill="#172b33"/>
+  <g fill="none" stroke="#dfe7d8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M86 948c124-22 235-78 319-171 81-89 124-206 269-253 98-32 194-14 280 54" stroke-width="10" opacity=".95"/>
+    <path d="M168 894c99-28 175-84 239-167 58-76 89-171 197-216 91-38 181-35 268 8" stroke-width="5" opacity=".78"/>
+    <path d="M284 823c69-37 113-88 151-156 32-58 66-116 141-149 74-32 149-34 229-5" stroke-width="3" opacity=".58"/>
+    <path d="M350 757c82-84 118-177 224-220 74-30 147-25 219 15" stroke-width="3" opacity=".38"/>
+    <path d="M309 824c25-30 40-66 42-110 3-74 63-154 141-179 47-15 95-10 142 16 38 22 68 54 96 94" stroke-width="7" opacity=".9"/>
+    <path d="M336 868c68-19 127-20 181-5 42 12 80 29 130 25 47-4 95-24 151-61" stroke-width="4" opacity=".46"/>
+    <path d="M111 1052c126-26 231-31 317-14 98 19 182 17 260-6 65-19 135-25 208-18" stroke-width="4" opacity=".42"/>
+    <path d="M163 1110c121-17 228-16 320 3 92 20 190 20 294 0" stroke-width="2.5" opacity=".32"/>
+    <path d="M602 599c38 7 76 29 113 66" stroke-width="3" opacity=".55"/>
+    <path d="M645 563c42 11 88 39 126 83" stroke-width="2.5" opacity=".34"/>
+  </g>
+  <circle cx="782" cy="181" r="18" fill="#dfe7d8"/>
+</svg>
